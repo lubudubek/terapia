@@ -1,0 +1,53 @@
+img {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	font-family: Papyrus, fantasy;
+	background: #e8bfe8;
+}
+
+ul {
+	margin: 0;
+}
+
+.nav li {
+	margin: 0;
+	background: #666;
+	color: red;
+	list-style-type: none;
+	display: inline-block;
+}
+
+.nav a {
+	margin: 0;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+}
+
+.nav a:visited {
+	background: #999;
+}
+
+.nav a:link {
+	background: #999;
+}
+
+.nav a:active {
+	text-decoration: underline;
+}
+
+.nav a:hover {
+	background: #795b8a;
+}
+
+p {
+	margin: 20px 40px 0px 40px	
+}
+
+
+
+
